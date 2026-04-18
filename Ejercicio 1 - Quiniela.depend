@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1776185896 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\ejercicio 1 - quiniela\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+
+1776185067 c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\ejercicio 1 - quiniela\carton.h
+
+1776185675 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\ejercicio 1 - quiniela\juego.c
+	<stdio.h>
+	"juego.h"
+
+1776185067 c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\ejercicio 1 - quiniela\juego.h
+	"persona.h"
+	"carton.h"
+
+1776185067 c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\ejercicio 1 - quiniela\persona.h
+	"carton.h"
+
+1776185067 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\ejercicio 1 - quiniela\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1776185896 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\ejercicio 1 - quiniela\sorteo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"sorteo.h"
+
+1776185195 c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\ejercicio 1 - quiniela\sorteo.h
+	"carton.h"
+
+1776185923 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\ejercicio 1 - quiniela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"persona.h"
+	"carton.h"
+	"sorteo.h"
+	"juego.h"
+
+1776187274 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\juego.c
+	<stdio.h>
+	"juego.h"
+
+1776185067 c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\juego.h
+	"persona.h"
+	"carton.h"
+
+1776187092 c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\persona.h
+	"carton.h"
+
+1776187274 c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\carton.h
+
+1776185923 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"persona.h"
+	"carton.h"
+	"sorteo.h"
+	"juego.h"
+
+1776185195 c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\sorteo.h
+	"carton.h"
+
+1776187350 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\sorteo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"sorteo.h"
+
+1776187092 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+
+1776187092 source:c:\users\wanda valentine\desktop\lic. en sistemas\2do año\algoritmos y estructura de datos\san roman, cusato\tareas\tarea 1 - declaración de struct e interfaz de cada struct\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
